@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+//asdas
         setSupportActionBar(binding.appBarMain.toolbar)
 
 
